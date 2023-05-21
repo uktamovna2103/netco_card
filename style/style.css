@@ -1,0 +1,97 @@
+.section1 .card {
+  width: 298px;
+  height: 420px;
+  background: #FFFFFF;
+  box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.08);
+  border-radius: 3px;
+  color: #010F56;
+}
+.section1 .card .absolute {
+  position: absolute;
+  justify-content: space-between;
+  gap: 100px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.section1 .card .absolute .circle {
+  width: 50px;
+  height: 50px;
+  background: #FFFFFF;
+  border-radius: 7px;
+  text-align: center;
+  justify-content: center;
+}
+.section1 .card .absolute .line {
+  width: 80px;
+  height: 30px;
+  background: #FFFFFF;
+  border-radius: 3px;
+  text-align: center;
+  color: #FF027E;
+}
+.section1 .card span {
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 18px;
+  color: black;
+}
+.section1 .card .btn {
+  width: 203px;
+  height: 40px;
+  border: 1px solid #010F56;
+  border-radius: 2px;
+}
+.section1 .card .btn:hover {
+  background-color: #010F56;
+  color: white;
+}
+.section1 .card:hover {
+  box-shadow: 5px 36px 150px rgba(0, 0, 0, 0.08);
+  scale: 1.06;
+}
+.section1 .row1 {
+  text-align: center;
+}
+.section1 .row1 .col1 {
+  margin-top: 50px;
+}
+.section1 .row1 .col2 {
+  margin-top: 70px;
+}
+.section1 .row1 .col1:hover {
+  border-bottom: 1px solid #07003B;
+  scale: 1.1;
+}
+.section1 .row2 {
+  margin-top: 100px;
+}
+.section1 .row3 {
+  margin-top: 30px;
+}
+.section1 .row4 {
+  margin-top: 30px;
+}
+.section1 .row5 {
+  margin-top: 30px;
+}
+.section1 .row6 {
+  margin-top: 60px;
+  padding-bottom: 60px;
+  text-align: center;
+  justify-content: center;
+}
+.section1 .row6 .btn {
+  width: 203px;
+  height: 45px;
+  color: #010F56;
+  border: 2px solid #010F56;
+}
+.section1 .row6 .btn:hover {
+  background-color: #010F56;
+  color: #FFFFFF;
+}
+
+footer .footer {
+  background-color: #07032B;
+  height: 110px;
+}/*# sourceMappingURL=style.css.map */
